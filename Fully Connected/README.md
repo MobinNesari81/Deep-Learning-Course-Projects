@@ -87,6 +87,6 @@ Consider enhancing the model with additional layers, dropout, or data augmentati
 
 ## 📬 Contact
 
-For questions or feedback, feel free to reach out through the repository's Issues section or contact [Your Email].
+For questions or feedback, feel free to reach out through the repository's Issues section or contact <mobinnesari81@gmail.com>.
 
 Enjoy exploring Fashion MNIST! ✨👗👖👚

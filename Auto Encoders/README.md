@@ -93,6 +93,6 @@ You can run the cells in order for a step-by-step experience in building and tra
 
 ## 📬 Contact
 
-For questions or suggestions, reach out via the Issues section of the repository or contact [Your Email].
+For questions or suggestions, reach out via the Issues section of the repository or contact <mobinnesari81@gmail.com>.
 
 Happy learning with Autoencoders! ✨
